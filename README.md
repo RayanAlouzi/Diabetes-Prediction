@@ -1,1 +1,1 @@
-# Sonar-Rock-vs-Mine-Prediction
+# This is a respository of all the little ML projects I make
