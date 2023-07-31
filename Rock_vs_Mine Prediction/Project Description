@@ -1,2 +1,0 @@
-Project uses Logistic Regression to tell whether the submarine is going to find a rock or a mine
-Project Explores basic libraries such as pandas, logistic regression, numpy, train_test_split, accuracy_score to predict the answer
